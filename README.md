@@ -1,1 +1,1 @@
-# typingTest
+Typing Test
