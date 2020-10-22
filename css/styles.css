@@ -1,0 +1,15 @@
+.containerDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    padding: 10%;
+}
+
+#typingBox{
+    width:  200%;
+    height: 200%;
+    resize: none;
+    justify-self: center;
+}
