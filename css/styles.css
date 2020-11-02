@@ -4,12 +4,19 @@
     justify-content: center;
     margin: auto;
     text-align: center;
-    padding: 10%;
+    padding: 15%;
+    align-items: center;
 }
 
 #typingBox{
     width:  200%;
     height: 200%;
     resize: none;
-    justify-self: center;
+    /*display: block;*/
+    margin: auto 0;
+    padding: 5%;
+}
+
+#textBoxDiv{
+    padding: 5%;
 }
